@@ -1,7 +1,6 @@
 TITLE PROGRAM 4     (program4.asm)
 
 ; Author: Cihan Towery
-; Course CS271             
 ; Date: 08 May 2017
 ; Description: Write a program to calculate composite numbers. 
 ;First, the user is instructed to enter the number of composites 
